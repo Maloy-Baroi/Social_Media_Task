@@ -3,7 +3,7 @@
 Steps you should follow to run the project:
 
 Pull this repository
-Create a virtualenv and install dependencies with pip install -r requirements.txt
+Install dependencies with pip install -r requirements.txt
 
 This application built with:
 Django Rest Framework to create the crud operations and the interaction with the database(mysql).
