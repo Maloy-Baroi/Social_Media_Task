@@ -1,4 +1,4 @@
-##Social Media Project built with Django and ReactJS
+**Social Media Project built with Django and ReactJS**
 
 Steps you should follow to run the project:
 
